@@ -1,0 +1,39 @@
+/*nav_bar-HOME START*/
+.nav_bar-HOME{
+    color: yellow;
+}
+
+.nav_bar-HOME ul{
+    text-align: center;
+    
+}
+
+/*nav_bar-HOME END*/
+/*catch_phrase START*/
+.catch_phrase{
+    color: white;
+    text-align: center;
+}
+
+.catch_phrase img{
+    width: 27%;
+}
+/*catch_phrase END*/
+
+/*wanna START*/
+.wanna{
+    color: lightgray;
+    text-align: center;
+}
+
+/*wanna START*/
+
+
+/* today_Games START*/
+
+.today_Games{
+    color: gray;
+    text-align: center;
+    border: outset;
+}
+
