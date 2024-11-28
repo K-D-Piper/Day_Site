@@ -5,6 +5,7 @@
 
 .nav_bar-HOME ul{
     text-align: center;
+    list-style-type: none;
     
 }
 
@@ -28,7 +29,6 @@
 
 /*wanna START*/
 
-
 /* today_Games START*/
 
 .today_Games{
@@ -37,3 +37,10 @@
     border: outset;
 }
 
+/* Needs Fix
+.bee_clicker iframe{
+    position: fixed;
+    inset: 0;
+    z-index: 100;
+}
+*/
