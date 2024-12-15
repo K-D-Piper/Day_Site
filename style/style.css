@@ -37,15 +37,14 @@
     border: outset;
 }
 
-/* Needs Fix
-.bee_clicker iframe{
-    position: fixed;
-    inset: 0;
-    z-index: 100;
+.bee_game iframe{
+    width: 105%;
+    height: 656px;
 }
-*/
+
 
 /* today_Games END*/
+
 
 /*dawn_Bot START*/
 .dawn_Bot{
