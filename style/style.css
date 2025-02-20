@@ -6,7 +6,16 @@
 .nav_bar-HOME ul{
     text-align: center;
     list-style-type: none;
-    
+}
+
+.nav_bar-HOME li{
+    display: inline;
+}
+
+.day_links{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
 }
 
 /*nav_bar-HOME END*/
@@ -37,11 +46,12 @@
     border: outset;
 }
 
+/*
 .bee_game iframe{
     width: 105%;
     height: 656px;
 }
-
+*/
 
 /* today_Games END*/
 
