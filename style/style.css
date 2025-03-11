@@ -55,7 +55,6 @@
 
 /* today_Games END*/
 
-
 /*dawn_Bot START*/
 .dawn_Bot{
     color: gray;
@@ -71,3 +70,26 @@
 .face img{
     width: 27%;
 }
+
+/* dawn_Bot END*/ 
+
+/* YESTERDAY START ------------------------------------------------*/ 
+.all-in-one-YES{
+    color: yellow;
+}
+
+.buy-products h4{
+    color: white;
+}
+
+.c_candles{
+    color: yellow;
+    text-align: center;
+}
+
+.c_candles button{
+    background-color: yellow;
+    color: black;
+}
+
+/* YESTERDAY END*/
