@@ -1,5 +1,6 @@
 /*nav_bar-HOME START*/
 .nav_bar-HOME{
+    background-color: black;
     color: yellow;
 }
 
@@ -74,14 +75,30 @@
 /* dawn_Bot END*/ 
 
 /* YESTERDAY START ------------------------------------------------*/ 
-.all-in-one-YES{
-    color: yellow;
-}
+
+/*day_links_YES START*/
 
 .nav_bar-YES{
+    background-color: yellow;
     color: black;
-    background-color: green;
 }
+
+.nav_bar-YES ul{
+    text-align: center;
+    list-style-type: none;
+}
+
+.nav_bar-YES li{
+    display: inline;
+}
+
+.day_links_YES{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+/*day_links_YES END*/
 
 .buy-products h4{
     color: white;
@@ -98,3 +115,4 @@
 }
 
 /* YESTERDAY END*/
+
