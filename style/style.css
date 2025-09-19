@@ -79,8 +79,8 @@
 /*day_links_YES START*/
 
 .nav_bar-YES{
-    background-color: yellow;
-    color: black;
+    background-color: black;
+    color: yellow;
 }
 
 .nav_bar-YES ul{
@@ -88,10 +88,11 @@
     list-style-type: none;
 }
 
+/* I don't think i need it? But I'm not ready to commit to deleting yet. 
 .nav_bar-YES li{
     display: inline;
 }
-
+*/
 .day_links_YES{
     display: flex;
     flex-direction: row;
@@ -99,7 +100,7 @@
 }
 
 /*day_links_YES END*/
-
+/*
 .buy-products h4{
     color: white;
 }
@@ -113,6 +114,6 @@
     background-color: yellow;
     color: black;
 }
-
+*/
 /* YESTERDAY END*/
 
